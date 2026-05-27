@@ -14,7 +14,7 @@ import { request } from '@/routes/password';
 
 defineOptions({
     layout: {
-        title: 'Log in to your account2',
+        title: 'Log in to your account22',
         description: 'Enter your email and password below to log in',
     },
 });
